@@ -1,2 +1,2 @@
 # RollDice
-This is a game for two people to paly with dice
+This is a game for two people to play with dice
