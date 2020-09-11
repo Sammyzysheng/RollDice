@@ -58,7 +58,7 @@ var dice=Math.floor(Math.random()*6)+1;
     var currentScore=document.querySelector('#current-' + activePlayer);
     //display the dice
    diceDom.style.display="block";
-   diceDom.src='dice-'+dice+'.png';
+   diceDom.src='/dice-'+dice+'.png';
     //update the score when the value is not 1;
     if(!(dice == previousDice)){
         roundScore += dice
